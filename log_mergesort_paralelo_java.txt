@@ -1,0 +1,21 @@
+--- Novo Teste de Desempenho (MergeSort Paralelo em Java) ---
+1000 elements => 1 ms
+2000 elements => 1 ms
+4000 elements => 1 ms
+8000 elements => 2 ms
+16000 elements => 1 ms
+32000 elements => 3 ms
+64000 elements => 5 ms
+128000 elements => 9 ms
+256000 elements => 22 ms
+512000 elements => 12 ms
+1024000 elements => 31 ms
+2048000 elements => 43 ms
+4096000 elements => 91 ms
+8192000 elements => 190 ms
+16384000 elements => 321 ms
+32768000 elements => 675 ms
+65536000 elements => 1351 ms
+131072000 elements => 2909 ms
+262144000 elements => 6369 ms
+524288000 elements => 13025 ms
